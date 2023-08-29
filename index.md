@@ -1,6 +1,6 @@
 ## Nina's First CS193 Homework
 
-# My Favorite Things About CS193
+### My Favorite Things About CS193
 ```
 - No exams and no final exam
 - We get a week to complete the homework
