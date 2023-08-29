@@ -1,3 +1,4 @@
+theme: minima
 ## Nina's First CS193 Homework
 
 ```
