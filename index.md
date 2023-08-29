@@ -1,4 +1,4 @@
-## Nina's First CS193 Homework
+# Nina's First CS193 Homework
 
 ### My Favorite Things About CS193
 ```
